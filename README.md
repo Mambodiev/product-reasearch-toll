@@ -1,4 +1,4 @@
-﻿this is a product reasearch tools website (the idea is to create something like https://app.adspy.com/)
+﻿This is a product reasearch tools website (the idea is to create something like https://app.adspy.com/)
 to run it :
 
 windows:
